@@ -9,5 +9,5 @@ i get the best model of all to deploy using flask framework
 to avoid conflict and errors between imblearn and sklearn 
 you should use 
 python 3.6
-sklearn 0.7.0
+imblearn 0.7.0
 sklearn 0.23.2
